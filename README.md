@@ -21,8 +21,8 @@ This is a simple backend for a Notes application built using Node.js, Express, a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/notes-app-backend.git
-    cd notes-app-backend
+    git clone https://github.com/meshach567/notes.git
+    cd notes
     ```
 
 2. Install dependencies:
